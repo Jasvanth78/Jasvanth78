@@ -1,68 +1,58 @@
-<h1 align="center">Hi, I'm Jasvanth 👋</h1>
-<p align="center">A developer who grows skills like tree roots — deep, strong, and branching into the future 🌳</p>
+<h1 align="center">👋 Hi, I'm Jasvanth</h1>
+<h3 align="center">MERN Stack Developer | MongoDB • Express • React • Node.js</h3>
 
----
-
-## 🪴 My Developer Roots
-
-### **Web Dev Ecosystem** 💻
-* **HTML:** The structure of web pages.
-* **CSS:** The styling and design.
-* **JavaScript:** The interactivity and logic.
-    * **React:** For building user interfaces.
-    * **Tailwind:** For fast, utility-first styling.
-
-### **Tools & Branches** 🔧
-* **Git:** Version control for tracking code changes.
-* **GitHub:** A platform for code collaboration.
-* **Canva:** A design tool for visuals.
-
-### **Scripting Stem** 🐍
-* **Python:** A versatile language for scripting and backend.
-
----
-
-## 🌟 About Me
-- 🚀 Passionate about **frontend development** & clean UI.
-- 🌱 Always learning, like a tree expanding its roots.
-- ✨ Believe in: *Focus, growth, and consistency.*
-
----
-
-## 🔧 Tech Stack
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  I build scalable, secure, and performance-driven full-stack web applications.<br/>
+  From clean frontend UI to robust backend APIs.
+</p>
+
+<p align="center">
+  <a href="https://your-portfolio-link.com">🌐 Portfolio</a> •
+  <a href="mailto:your.email@example.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 🌳 GitHub Tree Growth
+## 🧠 About Me
+- 🚀 Passionate **MERN Stack Developer**
+- 🧩 Strong in **REST APIs, JWT Auth, CRUD, Role-based access**
+- 🎯 Focused on clean architecture & scalable systems
+- 🌱 Learning advanced backend & system design
+
+---
+
+## 🛠️ MERN Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,tailwind,git,github" />
+</p>
+
+---
+
+## ⚙️ Backend Skills
+- Authentication (JWT, role-based access)
+- RESTful API design
+- MongoDB schema & relationships
+- Prisma / Mongoose
+- API testing (Postman)
+
+---
+
+## 📊 GitHub Analytics
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jasvanth78&show_icons=true&theme=forest"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jasvanth78&show_icons=true&theme=react"/>
   <br/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasvanth78&layout=compact&theme=forest"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasvanth78&layout=compact&theme=react"/>
 </div>
 
 ---
-### 🚂 My Daily Commit Journey
+
+## 🐍 Daily Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jasvanth78/Jasvanth78/output/github-contribution-grid-snake.svg" alt="Animated snake on contribution graph" />
+  <img src="https://raw.githubusercontent.com/Jasvanth78/Jasvanth78/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
-<h3 align="center">✨ *Like a tree, I’m rooted in fundamentals but always branching into new horizons.*</h3>
 
----
-
-### 🌐 Connect with Me
-- 📧 **Email:** `your.email@example.com`
-- 🔗 **Portfolio:** `https://your-portfolio-link.com`
-- 🐦 **Twitter/X:** `https://twitter.com/yourhandle`
+### 💡 Developer Philosophy
+> *Build real projects. Break things. Fix them. Repeat.*
