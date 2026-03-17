@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="www.jasvanth.me">🌐 Portfolio</a> •
+  <a href="https://www.jasvanth.me/">🌐 Portfolio</a> •
   <a href="mailto:mailtojasvanth88@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
 </p>
