@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">🌐 Portfolio</a> •
-  <a href="mailto:your.email@example.com">📧 Email</a> •
+  <a href="www.jasvanth.me">🌐 Portfolio</a> •
+  <a href="mailto:mailtojasvanth88@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
 </p>
 
